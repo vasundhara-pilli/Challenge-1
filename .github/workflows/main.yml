@@ -24,6 +24,3 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         run: echo "Poster Updated successfully!"
-git add .github/workflows/ci.yml
-git commit -m "Add workflow file"
-git push
